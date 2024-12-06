@@ -300,7 +300,5 @@ const goals2024 = {
   <img src="https://img.shields.io/github/stars/Tharsan07?style=for-the-badge&color=blueviolet" alt="Stars" />
 </p>
 
-  building: ['Impactful Projects 🚀', 'Personal Brand 💫'],
-  sharing: ['Blog Posts ✍️', 'Tech Talks 🎤', 'Tutorials 📹']
 };
 ```
