@@ -1,201 +1,153 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Tharsan
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Passionate+Coder+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+<!-- 👋 Hey, I'm Tharsan! -->
+<div class="flex items-center justify-between py-8">
+  <!-- Content on the left side -->
+  <a href="https://git.io/typing-svg" class="flex-1">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36D7B7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Tharsan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%92%BB;Passionate+Coder+%F0%9F%8C%9F;Always+Learning+%F0%9F%92%A1" 
+      alt="Typing Animation" 
+      class="mx-auto"
+    />
   </a>
+  
+  <!-- GIF on the right side -->
+  
+ <div class="absolute top-0 right-0 mt-4 mr-4">
+    <img 
+      src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" 
+      alt="Tharsan Coding Animation" 
+      style="width: 50%; height: 50%; border-radius: 5px;" 
+    />
+  </div>
 </div>
 
-<br>
+<!-- 🚀 About Me -->
+<h2 class="text-center text-4xl font-bold mt-16 mb-6 animate-fade-in">
+  🚀 About Me
+</h2>
 
-<p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<p class="text-center text-lg mt-4 text-gray-700 leading-relaxed px-8">
+  <b>Web Developer | MERN Stack Enthusiast</b><br>
+  I specialize in building dynamic, user-friendly web applications using <b>React</b>, <b>Node.js</b>, 
+  <b>Express</b>, and <b>MongoDB</b>. Always passionate about learning and implementing 
+  cutting-edge technologies to deliver high-quality solutions.
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Welcome+to+my+creative+space!+%F0%9F%8E%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80" />
-  </a>
-</p>
+<!-- 🛠️ Technologies & Tools -->
+<h2 class="text-center text-4xl font-bold mt-16 mb-6 animate-fade-in">
+  🛠️ Technologies & Tools
+</h2>
 
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
-
-```typescript
-const tharsan = {
-    title: "Full Stack Developer",
-    pronouns: "he/him",
-    location: "Sri Lanka 🌏",
-    code: ["JavaScript", "Python", "React", "Node.js"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Technologies & Tools
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-<details>
-<summary>🌟 More Skills</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-</details>
-
-<br>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharsan07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharsan07&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tharsan07&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</p>
-
-<br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="45"> Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/tharsan04">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  </a>
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/tharsan04">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="mailto:tharsantharsan05819@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Goals for 2024
-<p align="center">
-
-```javascript
-const goals2024 = {
-  learning: ['New Technologies 📚', 'Best Practices ⭐', 'System Design 🎯'],
-  contributing: ['Open Source 🌟', 'Community Projects 🤝'],# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Tharsan
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Passionate+Coder+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
-  </a>
+<div class="flex justify-center flex-wrap gap-6 mt-6 px-4 animate-float">
+  <!-- Badges with Tailwind Hover Effects -->
+  <img 
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+    alt="HTML5" 
+    class="transform hover:scale-110 transition duration-300"
+  />
+  <img 
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
+    alt="CSS3" 
+    class="transform hover:scale-110 transition duration-300"
+  />
+  <img 
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    alt="JavaScript" 
+    class="transform hover:scale-110 transition duration-300"
+  />
+  <img 
+    src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" 
+    alt="React" 
+    class="transform hover:scale-110 transition duration-300"
+  />
+  <img 
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" 
+    alt="Node.js" 
+    class="transform hover:scale-110 transition duration-300"
+  />
+  <img 
+    src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" 
+    alt="Express" 
+    class="transform hover:scale-110 transition duration-300"
+  />
+  <img 
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
+    alt="MongoDB" 
+    class="transform hover:scale-110 transition duration-300"
+  />
+  <img 
+    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" 
+    alt="Heroku" 
+    class="transform hover:scale-110 transition duration-300"
+  />
 </div>
 
-<br>
+<!-- 🌱 Currently Learning -->
+<h2 class="text-center text-4xl font-bold mt-16 mb-6 animate-fade-in">
+  🌱 Currently Learning
+</h2>
 
-<p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-</p>
+<div class="text-center mt-6">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Learning+Advanced+React+Concepts+%F0%9F%92%AA;Exploring+TypeScript+%F0%9F%94%A8;Mastering+System+Design+%F0%9F%94%8E" 
+    alt="Currently Learning Animation" 
+    class="mx-auto"
+  />
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Welcome+to+my+creative+space!+%F0%9F%8E%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80" />
+<!-- 🔥 My GitHub Stats -->
+<h2 class="text-center text-4xl font-bold mt-16 mb-6 animate-fade-in">
+  🔥 My GitHub Stats
+</h2>
+
+<div class="text-center mt-6 space-y-8">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tharsan07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+    class="mx-auto shadow-lg rounded-lg"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tharsan07&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    class="mx-auto shadow-lg rounded-lg"
+  />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Tharsan07&theme=radical&no-frame=true&row=1&column=7" 
+    alt="GitHub Trophies" 
+    class="mx-auto shadow-lg rounded-lg"
+  />
+</div>
+
+<!-- 📫 Connect With Me -->
+<h2 class="text-center text-4xl font-bold mt-16 mb-6 animate-fade-in">
+  📫 Connect With Me
+</h2>
+
+<div class="flex justify-center gap-6 mt-6 animate-float">
+  <a 
+    href="https://linkedin.com/in/tharsan04" 
+    class="hover:scale-110 transform transition duration-300"
+  >
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
-</p>
-
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
-
-```typescript
-const tharsan = {
-    title: "Full Stack Developer",
-    pronouns: "he/him",
-    location: "Sri Lanka 🌏",
-    code: ["JavaScript", "Python", "React", "Node.js"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
-
-
-
-
+  <a 
+    href="https://twitter.com/YourTwitterHandle" 
+    class="hover:scale-110 transform transition duration-300"
+  >
+    <img 
+      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" 
+      alt="Twitter"
+    />
+  </a>
+  <a 
+    href="mailto:tharsantharsan05819@gmail.com" 
+    class="hover:scale-110 transform transition duration-300"
+  >
+    <img 
+      src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    />
+  </a>
+</div>
