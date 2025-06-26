@@ -1,67 +1,87 @@
-<!-- Welcome to My Web Development World -->
-<div align="center" style="background: linear-gradient(135deg, #1A1B27 0%, #2A4066 100%); padding: 50px; border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.5); position: relative;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('https://www.transparenttextures.com/patterns/stardust.png'); opacity: 0.2;"></div>
-  <h1 style="font-size: 48px; font-family: 'Arial', sans-serif; color: #FFFFFF; font-weight: bold; text-shadow: 0 0 10px #00FFFF; margin-bottom: 20px;">
-    Tharsan - Web Developer
-  </h1>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&duration=3500&pause=1000&color=00FFFF¢er=true&vCenter=true&width=600&lines=Building+Awesome+Websites;Coding+with+Passion;Creating+Digital+Experiences" 
-    alt="Tagline Typing SVG" 
-  />
-</div>
+<!-- Header Section -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  Hi there, I'm <span style="color:#00FFFF;">Tharsan</span> — Web Developer
+</h1>
 
-<!-- About Me -->
-<div align="center" style="background: linear-gradient(135deg, #F0E6FF 0%, #E6F0FA 100%); padding: 40px; border-radius: 20px; margin-top: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-  <h2 style="font-size: 36px; font-family: 'Arial', sans-serif; color: #1A1B27; font-weight: bold; margin-bottom: 20px;">
-    About Me
-  </h2>
-  <p style="font-size: 18px; font-family: 'Arial', sans-serif; color: #2D3748; max-width: 600px; line-height: 1.5;">
-    I’m a Web Developer who loves building websites and web applications. I specialize in creating user-friendly, fast, and modern solutions using tools like React, Node.js, and MongoDB. My goal is to write clean code and bring creative ideas to life on the web.
-  </p>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=4000&pause=1000&color=FF007A¢er=true&vCenter=true&width=500&lines=Passionate+about+Web+Development;Always+Learning+New+Skills" 
-    alt="About Me Typing SVG" 
-    style="margin-top: 20px;"
-  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&width=600&lines=Crafting+Modern+Web+Experiences;MERN+Stack+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+</p>
 
-<!-- My Skills -->
-<div align="center" style="background: linear-gradient(135deg, #FFF5F7 0%, #FCE7F3 100%); padding: 40px; border-radius: 20px; margin-top: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-  <h2 style="font-size: 36px; font-family: 'Arial', sans-serif; color: #1A1B27; font-weight: bold; margin-bottom: 20px;">
-    My Skills
-  </h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </div>
-</div>
+---
 
-<!-- My Work Stats -->
-<div align="center" style="background: linear-gradient(135deg, #0F172A 0%, #2A4066 100%); padding: 40px; border-radius: 20px; margin-top: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);">
-  <h2 style="font-size: 36px; font-family: 'Arial', sans-serif; color: #FFFFFF; font-weight: bold; margin-bottom: 20px;">
-    My Work Stats
-  </h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tharsan07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-    <img width="45%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharsan07&theme=radical&hide_border=true&background=0D1117&stroke=FF007A&ring=FF007A&currStreakNum=FFFFFF" alt="GitHub Streak Stats"/>
-  </div>
-</div>
+## 🚀 About Me
 
-<!-- Connect With Me -->
-<div align="center" style="background: linear-gradient(135deg, #FFF5F7 0%, #FCE7F3 100%); padding: 40px; border-radius: 20px; margin-top: 30px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-  <h2 style="font-size: 36px; font-family: 'Arial', sans-serif; color: #1A1B27; font-weight: bold; margin-bottom: 20px;">
-    Connect With Me
-  </h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <a href="mailto:tharsantharsan05819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com/in/tharsan04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://github.com/Tharsan07?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FF007A&width=700&lines=I'm+a+Full+Stack+Web+Developer;Specialized+in+React,+Node,+MongoDB;Writing+Clean+and+Scalable+Code;Always+Learning+and+Improving" alt="About Me Typing SVG" />
+</p>
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🔷 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" title="HTML5" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" title="CSS3" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" title="React" style="margin: 10px;" />
+</p>
+
+### 🟩 Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" title="Node.js" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" title="Express.js" style="margin: 10px; background-color: white; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" title="MongoDB" style="margin: 10px;" />
+</p>
+
+### 🧰 Tools & Version Control
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" title="Git" style="margin: 10px;" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tharsan07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharsan07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharsan07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Optional)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tharsan07/Tharsan07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<!-- To make this work:
+1. Follow setup steps here → https://github.com/Platane/snk
+2. Enable GitHub Actions in your repo and trigger the workflow
+ -->
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:tharsantharsan05819@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/tharsan04">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Tharsan07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+---
+
+> 🌟 *Thanks for visiting my profile! Let’s connect and build something awesome together.*
